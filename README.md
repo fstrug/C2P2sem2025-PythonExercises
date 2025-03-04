@@ -1,4 +1,7 @@
 # C2P2sem2025-PythonExercises
+
+## Setup
+
 To set-up the columnar analysis exercises, we need to be able to work with jupyter notebooks over the ssh connection. First, connect to the vmlab and configure a new conda environment as detailed below. Then clone the repo.
 
 ```bash
@@ -22,7 +25,7 @@ In a separate terminal, connect to the vmlab with the port used above for jupyte
 ssh -L 8080:localhost:8080 $USER@vmlab.niu.edu
 ```
 
-Copy and paste the URL from the first terminal window in a browser to 
+Copy and paste the URL from the first terminal window in a browser to open the jupyter lab session.
 
-
-Exercise results will be polled at [PollEv.com/frankstrug451](https://PollEv.com/frankstrug451).
+## PollEV Link
+Exercise results for day 1 will be polled at [PollEv.com/frankstrug451](https://PollEv.com/frankstrug451).
